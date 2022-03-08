@@ -3,6 +3,7 @@ import android.app.Application
 import android.util.Log
 import com.moengage.core.LogLevel
 import com.moengage.core.MoEngage
+import com.moengage.core.config.FcmConfig
 import com.moengage.core.config.LogConfig
 
 class vinaysApplication : Application() {
